@@ -10,7 +10,7 @@
             <div class="col-lg-9">
               <div class="widget">
 
-                <img src="images/logo.png" alt="Image" class="alignleft" style="margin-top: 8px; padding-right: 18px; border-right: 1px solid #4A4A4A;">
+                <img src="/images/logo.png" alt="Image" class="alignleft" style="margin-top: 8px; padding-right: 18px; border-right: 1px solid #4A4A4A;">
 
                 <p>Contact us today to schedule a consultation and take the first step towards embracing solar energy. Join the growing community of environmentally conscious individuals and businesses who are making a difference with Supligo, your trusted solar partner.</p>
 

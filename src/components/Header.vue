@@ -44,7 +44,7 @@
           ============================================= -->
           <div id="logo" class="ms-auto ms-lg-0 me-lg-auto">
             <a href="demo-construction.html">
-              <img class="logo-default" srcset="images/logo.png, images/logo@2x.png 2x" src="images/logo@2x.png" alt="Canvas Logo">
+              <img class="logo-default" srcset="/images/logo.png, /images/logo@2x.png 2x" src="/images/logo@2x.png" alt="Canvas Logo">
             </a>
           </div><!-- #logo end -->
 

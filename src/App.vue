@@ -20,7 +20,7 @@ import Footer from './components/Footer.vue'
                 </div>
               </div>
             </div>
-            <div class="swiper-slide-bg" style="background-image: url('images/slider/2.jpg'); background-position: center top;"></div>
+            <div class="swiper-slide-bg" style="background-image: url('/images/slider/2.jpg'); background-position: center top;"></div>
           </div>
           <div class="swiper-slide">
             <div class="container">
@@ -32,9 +32,9 @@ import Footer from './components/Footer.vue'
               </div>
             </div>
             <div class="video-wrap no-placeholder">
-              <video id="slide-video" poster="images/videos/1.jpg" preload="auto" loop autoplay muted playsinline>
-                <source src='images/videos/1.webm' type='video/webm'>
-                <source src='images/videos/1.mp4' type='video/mp4'>
+              <video id="slide-video" poster="//images/videos/1.jpg" preload="auto" loop autoplay muted playsinline>
+                <source src='//images/videos/1.webm' type='video/webm'>
+                <source src='//images/videos/1.mp4' type='video/mp4'>
               </video>
               <div class="video-overlay" style="background-color: rgba(0,0,0,0.1);"></div>
             </div>
@@ -48,7 +48,7 @@ import Footer from './components/Footer.vue'
                 </div>
               </div>
             </div>
-            <div class="swiper-slide-bg" style="background-image: url('images/slider/1.jpg'); background-position: center bottom;"></div>
+            <div class="swiper-slide-bg" style="background-image: url('/images/slider/1.jpg'); background-position: center bottom;"></div>
           </div>
         </div>
         <div class="slider-arrow-left"><i class="uil uil-angle-left-b"></i></div>
@@ -82,7 +82,7 @@ import Footer from './components/Footer.vue'
             <div class="col-sm-6 col-lg-4">
               <div class="feature-box media-box">
                 <div class="fbox-media">
-                  <img class="rounded" src="images/services/1.jpg" alt="Why choose Us?">
+                  <img class="rounded" src="/images/services/1.jpg" alt="Why choose Us?">
                 </div>
                 <div class="fbox-content px-0">
                   <h3>Skilled Professionals.<span class="subtitle">Your Property in Good Hands.</span></h3>
@@ -94,7 +94,7 @@ import Footer from './components/Footer.vue'
             <div class="col-sm-6 col-lg-4">
               <div class="feature-box media-box">
                 <div class="fbox-media">
-                  <img class="rounded" src="images/services/1.jpg" alt="Effective Planning">
+                  <img class="rounded" src="/images/services/1.jpg" alt="Effective Planning">
                 </div>
                 <div class="fbox-content px-0">
                   <h3>Effective Planning.<span class="subtitle">Construction Process Organized.</span></h3>
@@ -106,7 +106,7 @@ import Footer from './components/Footer.vue'
             <div class="col-sm-6 col-lg-4">
               <div class="feature-box media-box">
                 <div class="fbox-media">
-                  <img class="rounded" src="images/services/2.jpg" alt="Why choose Us?">
+                  <img class="rounded" src="/images/services/2.jpg" alt="Why choose Us?">
                 </div>
                 <div class="fbox-content px-0">
                   <h3>Risk Management.<span class="subtitle">We have got you Covered.</span></h3>
@@ -119,13 +119,13 @@ import Footer from './components/Footer.vue'
         </div>
 
         <div class="section parallax dark" style="padding: 120px 0;">
-          <img src="images/slider/1.jpg" class="parallax-bg">
+          <img src="/images/slider/1.jpg" class="parallax-bg">
 
           <div class="fslider" data-arrows="false" style="z-index: 2;">
             <div class="owl-carousel carousel-widget text-center mw-xs mx-auto dark" data-items="1" data-autoplay="5000" data-nav="false">
               <div class="row">
                 <div class="col-12">
-                  <img class="rounded-circle mx-auto w-auto mb-4" src="images/testimonials/1.jpg" width="64" height="64" alt="Customer Testimonails">
+                  <img class="rounded-circle mx-auto w-auto mb-4" src="/images/testimonials/1.jpg" width="64" height="64" alt="Customer Testimonails">
                   <h3 class="mb-4 lh-base fw-normal font-secondary">Seamlessly Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quia rerum porro est delectus ad in vitae neque nostrum nesciunt.</h3>
                 </div>
                 <div class="d-flex align-items-center justify-content-center">
@@ -138,7 +138,7 @@ import Footer from './components/Footer.vue'
 
               <div class="row">
                 <div class="col-12">
-                  <img class="rounded-circle mx-auto w-auto mb-4" src="images/testimonials/2.jpg" width="64" height="64" alt="Customer Testimonails">
+                  <img class="rounded-circle mx-auto w-auto mb-4" src="/images/testimonials/2.jpg" width="64" height="64" alt="Customer Testimonails">
                   <h3 class="mb-4 lh-base fw-normal font-secondary">Seamlessly conceptualize multimedia based web services for optimal human capital. Collaboratively evisculate e-business value.</h3>
                 </div>
                 <div class="d-flex align-items-center justify-content-center">
@@ -151,7 +151,7 @@ import Footer from './components/Footer.vue'
 
               <div class="row">
                 <div class="col-12">
-                  <img class="rounded-circle mx-auto w-auto mb-4" src="images/testimonials/3.jpg" width="64" height="64" alt="Customer Testimonails">
+                  <img class="rounded-circle mx-auto w-auto mb-4" src="/images/testimonials/3.jpg" width="64" height="64" alt="Customer Testimonails">
                   <h3 class="mb-4 lh-base fw-normal font-secondary">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestias facilis ea voluptatem cum.</h3>
                 </div>
                 <div class="d-flex align-items-center justify-content-center">
@@ -176,7 +176,7 @@ import Footer from './components/Footer.vue'
             <div class="col-lg-4 col-md-6">
               <div class="feature-box fbox-plain">
                 <div class="fbox-icon">
-                  <a href="#"><img src="images/icons/building.png" alt="Concrete Developments"></a>
+                  <a href="#"><img src="/images/icons/building.png" alt="Concrete Developments"></a>
                 </div>
                 <div class="fbox-content">
                   <h3>Expertise and Excellence</h3>
@@ -187,7 +187,7 @@ import Footer from './components/Footer.vue'
             <div class="col-lg-4 col-md-6">
               <div class="feature-box fbox-plain">
                 <div class="fbox-icon">
-                  <a href="#"><img src="images/icons/bank.png" alt="Finance Assistance"></a>
+                  <a href="#"><img src="/images/icons/bank.png" alt="Finance Assistance"></a>
                 </div>
                 <div class="fbox-content">
                   <h3>High-Quality Products</h3>
@@ -198,7 +198,7 @@ import Footer from './components/Footer.vue'
             <div class="col-lg-4 col-md-6">
               <div class="feature-box fbox-plain">
                 <div class="fbox-icon">
-                  <a href="#"><img src="images/icons/drawer.png" alt="Interiorly Designed"></a>
+                  <a href="#"><img src="/images/icons/drawer.png" alt="Interiorly Designed"></a>
                 </div>
                 <div class="fbox-content">
                   <h3>Customized Solutions</h3>
@@ -209,7 +209,7 @@ import Footer from './components/Footer.vue'
             <div class="col-lg-4 col-md-6">
               <div class="feature-box fbox-plain">
                 <div class="fbox-icon">
-                  <a href="#"><img src="images/icons/paper-money.png" alt="Cost Effective Solutions"></a>
+                  <a href="#"><img src="/images/icons/paper-money.png" alt="Cost Effective Solutions"></a>
                 </div>
                 <div class="fbox-content">
                   <h3>Financial Benefits</h3>
@@ -220,7 +220,7 @@ import Footer from './components/Footer.vue'
             <div class="col-lg-4 col-md-6">
               <div class="feature-box fbox-plain">
                 <div class="fbox-icon">
-                  <a href="#"><img src="images/icons/traffic-cone.png" alt="Smart Builders"></a>
+                  <a href="#"><img src="/images/icons/traffic-cone.png" alt="Smart Builders"></a>
                 </div>
                 <div class="fbox-content">
                   <h3>Ongoing Support</h3>
@@ -231,7 +231,7 @@ import Footer from './components/Footer.vue'
             <div class="col-lg-4 col-md-6">
               <div class="feature-box fbox-plain">
                 <div class="fbox-icon">
-                  <a href="#"><img src="images/icons/paint-brush.png" alt="Quality Infrastructure"></a>
+                  <a href="#"><img src="/images/icons/paint-brush.png" alt="Quality Infrastructure"></a>
                 </div>
                 <div class="fbox-content">
                   <h3>Commitment to Sustainability</h3>
@@ -252,7 +252,7 @@ import Footer from './components/Footer.vue'
           <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-media pf-icons">
             <div class="grid-inner">
               <div class="portfolio-image">
-                <img src="images/projects/1.jpg" alt="The Atmosphere">
+                <img src="/images/projects/1.jpg" alt="The Atmosphere">
                 <div class="bg-overlay">
                   <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
                     <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="zoomIn" data-hover-animate-out="zoomOut" data-hover-speed="350"><i class="uil uil-ellipsis-h"></i></a>
@@ -270,7 +270,7 @@ import Footer from './components/Footer.vue'
           <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-illustrations">
             <div class="grid-inner">
               <div class="portfolio-image">
-                <img src="images/projects/2.jpg" alt="Wavelength Structure">
+                <img src="/images/projects/2.jpg" alt="Wavelength Structure">
                 <div class="bg-overlay">
                   <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
                     <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="zoomIn" data-hover-animate-out="zoomOut" data-hover-speed="350"><i class="uil uil-ellipsis-h"></i></a>
@@ -288,7 +288,7 @@ import Footer from './components/Footer.vue'
           <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-graphics pf-uielements">
             <div class="grid-inner">
               <div class="portfolio-image">
-                <img src="images/projects/3.jpg" alt="Greenhouse Garden">
+                <img src="/images/projects/3.jpg" alt="Greenhouse Garden">
                 <div class="bg-overlay">
                   <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
                     <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="zoomIn" data-hover-animate-out="zoomOut" data-hover-speed="350"><i class="uil uil-ellipsis-h"></i></a>
@@ -306,7 +306,7 @@ import Footer from './components/Footer.vue'
           <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-icons pf-illustrations">
             <div class="grid-inner">
               <div class="portfolio-image">
-                <img src="images/projects/4.jpg" alt="Industrial Hub">
+                <img src="/images/projects/4.jpg" alt="Industrial Hub">
                 <div class="bg-overlay">
                   <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
                     <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="zoomIn" data-hover-animate-out="zoomOut" data-hover-speed="350"><i class="uil uil-ellipsis-h"></i></a>
@@ -324,7 +324,7 @@ import Footer from './components/Footer.vue'
           <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-uielements pf-media">
             <div class="grid-inner">
               <div class="portfolio-image">
-                <img src="images/projects/5.jpg" alt="Corporate Headquarters">
+                <img src="/images/projects/5.jpg" alt="Corporate Headquarters">
                 <div class="bg-overlay">
                   <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
                     <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="zoomIn" data-hover-animate-out="zoomOut" data-hover-speed="350"><i class="uil uil-ellipsis-h"></i></a>
@@ -342,7 +342,7 @@ import Footer from './components/Footer.vue'
           <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-graphics pf-illustrations">
             <div class="grid-inner">
               <div class="portfolio-image">
-                <img src="images/projects/6.jpg" alt="Space Station">
+                <img src="/images/projects/6.jpg" alt="Space Station">
                 <div class="bg-overlay">
                   <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
                     <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="zoomIn" data-hover-animate-out="zoomOut" data-hover-speed="350"><i class="uil uil-ellipsis-h"></i></a>
@@ -360,7 +360,7 @@ import Footer from './components/Footer.vue'
           <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-uielements pf-icons">
             <div class="grid-inner">
               <div class="portfolio-image">
-                <img src="images/projects/7.jpg" alt="Bent Architecture">
+                <img src="/images/projects/7.jpg" alt="Bent Architecture">
                 <div class="bg-overlay">
                   <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
                     <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="zoomIn" data-hover-animate-out="zoomOut" data-hover-speed="350"><i class="uil uil-ellipsis-h"></i></a>
@@ -378,7 +378,7 @@ import Footer from './components/Footer.vue'
           <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-graphics">
             <div class="grid-inner">
               <div class="portfolio-image">
-                <img src="images/projects/8.jpg" alt="Lakeview Center">
+                <img src="/images/projects/8.jpg" alt="Lakeview Center">
                 <div class="bg-overlay">
                   <div class="bg-overlay-content dark" data-hover-animate="fadeIn">
                     <a href="#" class="overlay-trigger-icon bg-light text-dark" data-hover-animate="zoomIn" data-hover-animate-out="zoomOut" data-hover-speed="350"><i class="uil uil-ellipsis-h"></i></a>
@@ -409,7 +409,7 @@ import Footer from './components/Footer.vue'
 
             <div class="row">
               <div class="col-lg-7">
-                <img src="images/services/bottom-trust.jpg" alt="Bottom Trust">
+                <img src="/images/services/bottom-trust.jpg" alt="Bottom Trust">
               </div>
               <div class="col-lg-5 mt-4">
                 <div class="heading-block border-bottom-0">
